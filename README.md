@@ -2,10 +2,10 @@
 Computer Vision final project
 
 # FinalCV-Project <br/>
-# Drive Link 
+Drive Link 
 
-# for output go inside output folder <br/>
-# for input go inside videos folder
+for output go inside output folder <br/>
+for input go inside videos folder
 
 https://drive.google.com/drive/folders/10_2HO1-EgILOz2erGVgCq6BnChFEIu3T?usp=sharing
 
